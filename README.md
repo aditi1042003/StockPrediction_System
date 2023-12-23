@@ -25,13 +25,13 @@ This repository consists of various machine learning projects, and all of the pr
 
 **Dataset** 
 + This folder stores the dataset used in this project. If the Dataset is not being able to uploaded in this folder due to the large size, then put a README.md file inside the Dataset folder and put the link of the collected dataset in it. That'll work!
-+ Dataset can be scrapped from web sources for real time analysis of stock price. [Starter_Notebook] 
++ Dataset can be scrapped from web sources for real time analysis of stock price. ** [Stock_prediction_model_starter_notebook] **
 
 **Model**
 + This folder would have your project file (that is .ipynb file) be it analysis or prediction.
 
 **Dashboard**
-+ A finance dashboard is an interactive web application that provides real-time insights into stock prices. It fetches live data from financial markets, processes it, and presents it in a user-friendly format. [Starter_python_file_streamlit]
++ A finance dashboard is an interactive web application that provides real-time insights into stock prices. It fetches live data from financial markets, processes it, and presents it in a user-friendly format. ** [Starter_python_file_streamlit.py] **  
 
 The dashboard may include features such as:
 
@@ -45,25 +45,25 @@ The dashboard may include features such as:
 Hi, so this section will include amazing tutorials on different model you can use in the model and how to work with them :
  
 ### Using LSTM Model:
-o   Explaination: https://youtu.be/guqgmVqcy2c?si=nld7H8F7-BgMzB1S
-o   Implementation: https://youtu.be/UbvkhuqVqUI?si=DW-e2qRmVVzKNC8K
++ Explaination: https://youtu.be/guqgmVqcy2c?si=nld7H8F7-BgMzB1S
++ Implementation: https://youtu.be/UbvkhuqVqUI?si=DW-e2qRmVVzKNC8K
  
 ### Using XG-Boost Model:
-o   Explaination: https://youtu.be/gPciUPwWJQQ?si=m-ZiuVV0mAhZchz9
-o   Implementation: https://youtu.be/ap2SS0-XPcE?si=-1I-I1IXKxFn82WE
++ Explaination: https://youtu.be/gPciUPwWJQQ?si=m-ZiuVV0mAhZchz9
++ Implementation: https://youtu.be/ap2SS0-XPcE?si=-1I-I1IXKxFn82WE
  
 ### Using ARIMA Model:
-o   Explaination: https://youtu.be/4Fiz3dQM_i8?si=8DHU1bI7v3qNG5BM
-o   Implementation: https://youtu.be/8FCDpFhd1zk?si=8mzeVI_G9gb6Ipyf
++ Explaination: https://youtu.be/4Fiz3dQM_i8?si=8DHU1bI7v3qNG5BM
++ Implementation: https://youtu.be/8FCDpFhd1zk?si=8mzeVI_G9gb6Ipyf
  
 ### Using Garch Model:
-o   Explaination: https://youtu.be/v9Q-MxY8cVg?si=NiJvoFasz0MHQbgU
-o   Implementation: https://youtu.be/96nSIMS9_Y0?si=z-Y7yCKJ-ozUuvXa
++ Explaination: https://youtu.be/v9Q-MxY8cVg?si=NiJvoFasz0MHQbgU
++ Implementation: https://youtu.be/96nSIMS9_Y0?si=z-Y7yCKJ-ozUuvXa
  
 ### Creating Dashboard:
-o   Implementation: https://www.youtube.com/watch?v=fdFfpEtv5BU
-o   Streamlit’s simplicity and Python’s powerful data libraries make    this dashboard a robust tool for anyone interested in financial markets. It serves as a one-stop solution for tracking, analyzing, and predicting stock price movements. Please note that while such a dashboard can be a helpful tool for understanding market trends, investment decisions should always be made with caution and proper research.
-o   Other JavaScript , React and python libraries can also be used
++ Implementation: https://www.youtube.com/watch?v=fdFfpEtv5BU
++ Streamlit’s simplicity and Python’s powerful data libraries make    this dashboard a robust tool for anyone interested in financial markets. It serves as a one-stop solution for tracking, analyzing, and predicting stock price movements. Please note that while such a dashboard can be a helpful tool for understanding market trends, investment decisions should always be made with caution and proper research.
++ Other JavaScript , React and python libraries can also be used
 
 
  
@@ -87,12 +87,12 @@ o   Do not abuse and/or use bad language. Ensure you don't insult anyone. Be res
 Do not abuse and/or use bad language. Ensure you don't insult anyone. Be respectful and inclusive.Please mention your full name on your GitHub handle to be eligible for prizes.You can take up any of the existing issues or create a new to to contribute any of your own projects!
 Contribution period ends:
  
-How to get started?
+### How to get started?
 You can refer to the following resources on Git and Github to get started and contact our Project Mentors via Discord if you have any doubts.
 Learn how to contribute to GDSC IGDTUW snow script of Code Projects
  
 Watch this video to get started: https://youtu.be/HbSjyU2vf6Y?si=7WgLVkpfhuJqLwti
  
-Prizes❄
+### Prizes❄
 
  
