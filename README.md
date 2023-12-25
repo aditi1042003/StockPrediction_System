@@ -65,7 +65,9 @@ Hi, so this section will include amazing tutorials on different model you can us
 + Streamlit’s simplicity and Python’s powerful data libraries make    this dashboard a robust tool for anyone interested in financial markets. It serves as a one-stop solution for tracking, analyzing, and predicting stock price movements. Please note that while such a dashboard can be a helpful tool for understanding market trends, investment decisions should always be made with caution and proper research.
 + Other JavaScript , React and python libraries can also be used
 
-
+## Tech-stack
++ python libraries: numpy , pandas , matplotlib etc.
++ streamlit for dashboard
  
 ## 🧮 Workflow
 + Fork the repository
